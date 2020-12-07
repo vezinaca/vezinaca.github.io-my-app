@@ -11,8 +11,7 @@ class App extends Component{
     render(){
         return(
             <div>                
-                <Header />
-                <MemeGenerator />
+                <h3>Bonjour app</h3>
             </div>
         )
     }
